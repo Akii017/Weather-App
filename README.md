@@ -1,4 +1,4 @@
-# Weather App
+# Weather Web-App
 
 Welcome to the Weather App! This application provides real-time weather information for any location worldwide. With a user-friendly interface and accurate data, you can stay informed about current weather conditions and forecasts.
 
